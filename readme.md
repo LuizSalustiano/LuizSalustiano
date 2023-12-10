@@ -26,7 +26,7 @@
 ">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://https://www.linkedin.com/in/luiz-alberto-maciel-salustiano-057887256/">
+    <a href = "https://https://www.linkedin.com/luiz-alberto-maciel-salustiano-057887256/">
       <img width="25" src="linkedin.svg">
     </a>
     <a href = "#">
